@@ -1,0 +1,3 @@
+[submodule "saborjabu-ft/reference/footysim"]
+	path = saborjabu-ft/reference/footysim
+	url = https://github.com/Tobilion/footysim.git
